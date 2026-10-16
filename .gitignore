@@ -1,0 +1,14 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+env_streamlit/
+venv/
+.env
+
+# IDE
+.vscode/
+
+# Local database
+database/*.db
